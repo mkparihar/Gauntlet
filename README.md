@@ -31,7 +31,7 @@ A hardware schematic of the project is shown below:
 <br>
 A final prototype developed during the hackathon is shown below. (Disclamer: This photo does not contain the LCD screen as it was added later)
 
-![](Photos/Gauntletreal.jpeg)
+<img width="400" height="700" src="Photos/Gauntletreal.jpeg">
 
 <br>
 <br>
