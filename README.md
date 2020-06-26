@@ -37,7 +37,7 @@ A final prototype developed during the hackathon is shown below. (Disclamer: Thi
 <br>
 A screenshot of the toolbox used is shown below. It is very easy to use, even people new to Machine Learning (like me) can use it very easily.
 
-![](Photos/Matlabtool.jpg)
+![](Photos/Matlabtool.png)
 
 Note: The tool produces a C code, which can be easily incorporated into the product. I have not added it in the files above because I lost it. But the interface is fairly simple,
 so you won't have a problem developing your own.
